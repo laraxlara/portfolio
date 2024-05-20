@@ -1,0 +1,28 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Source+Code+Pro:wght@300&display=swap");
+
+@font-face {
+  font-family: "Black Ops One";
+  src: url("../../fonts/BlackOpsOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  src: url("../../fonts/SourceCodePro-Light.ttf");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Black Ops One", cursive;
+}
+
+p {
+  font-family: "Source Code Pro", monospace;
+}
