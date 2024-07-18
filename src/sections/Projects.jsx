@@ -29,12 +29,12 @@ const Projects = () => {
 
               <div className="relative flex w-full flex-col justify-center items-center rounded-lg bg-white p-4 text-center">
                 <span className="text-lg font-bold text-gray-800 lg:text-xl">
-                  Onesped
+                  Sarsped Logistics Solutions
                 </span>
                 <span className="text-gray-500">Next JS</span>
                 <a
                   target="_blank"
-                  href="https://onesped.netlify.app/"
+                  href="https://sarspedlogistics.com/"
                   className="group mt-4 inline-flex items-center gap-1 text-sm font-medium text-[#02dea3]"
                 >
                   See project
@@ -126,7 +126,7 @@ const Projects = () => {
                 <span className="text-gray-500">Next JS</span>
                 <a
                   target="_blank"
-                  href="https://advantageblackcar.netlify.app/"
+                  href="https://advantageblackcar.com/"
                   className="group mt-4 inline-flex items-center gap-1 text-sm font-medium text-[#02dea3]"
                 >
                   See project
@@ -189,37 +189,6 @@ const Projects = () => {
                 <a
                   target="_blank"
                   href="https://thecrafthut.onrender.com/"
-                  className="group mt-4 inline-flex items-center gap-1 text-sm font-medium text-[#02dea3]"
-                >
-                  See project
-                  <span
-                    aria-hidden="true"
-                    className="block transition-all group-hover:ms-0.5 rtl:rotate-180"
-                  >
-                    &rarr;
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div>
-            <div className="group relative flex h-96 items-end overflow-hidden rounded-lg bg-gray-100 p-4 shadow-lg">
-              <Image
-                src={utopia}
-                loading="lazy"
-                alt="Photo by engin akyurt"
-                className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
-              />
-
-              <div className="relative flex w-full flex-col justify-center items-center rounded-lg bg-white p-4 text-center">
-                <span className="text-lg font-bold text-gray-800 lg:text-xl">
-                  Utopia Climbing Community
-                </span>
-                <span className="text-gray-500">Next JS</span>
-                <a
-                  target="_blank"
-                  href="https://utopiaclimbcommunity.com/"
                   className="group mt-4 inline-flex items-center gap-1 text-sm font-medium text-[#02dea3]"
                 >
                   See project
